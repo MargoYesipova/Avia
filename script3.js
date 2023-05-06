@@ -25,10 +25,10 @@ var blue_break = new Audio();
 var samolet_fall = new Audio();
 fly.loop = true;
 
-fly.src = "audio/fly.mp3";
-red_break.src = "audio/red_break.mp3"
-blue_break.src = "audio/material-zvukovoy-effekt-stolknoveniya.mp3";
-samolet_fall.src = "audio/samolet.mp3";
+fly.src = "https://github.com/MargoYesipova/Avia/blob/main/fly.mp3";
+red_break.src = "https://github.com/MargoYesipova/Avia/blob/main/red_break.mp3"
+blue_break.src = "https://github.com/MargoYesipova/Avia/blob/main/material-zvukovoy-effekt-stolknoveniya.mp3";
+samolet_fall.src = "https://github.com/MargoYesipova/Avia/blob/main/samolet.mp3";
 
 
 function resetGame() {
